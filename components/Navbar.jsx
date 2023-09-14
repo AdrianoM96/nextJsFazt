@@ -8,7 +8,7 @@ export default function Navbar() {
 
         <ul>
           <li>
-            <Link href="/">Homee</Link>
+            <Link href="/">Homeee</Link>
           </li>
           <li>
             <Link href="/about">About</Link>
